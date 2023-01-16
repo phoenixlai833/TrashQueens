@@ -28,7 +28,7 @@ yarn install
 yarn dev
 ```
 
-### How to play(screenshots/screen record):
+### How to play:
 
 <br>
 <div align="center">
