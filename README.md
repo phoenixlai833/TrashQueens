@@ -25,7 +25,7 @@ yarn install
 2. Run the Dev Project
 
 ```sh
-yarn run dev
+yarn dev
 ```
 
 ### How to play(screenshots/screen record):
