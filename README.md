@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Trash Queens</h1>
 <p align="center">A recycling game for all ages to learn about how to recycle properly. Explore the app, expand your knowledge and make the world a better place!</p>
 <br>
-<p align="center"><strong><a href="https://tq-server-production.up.railway.app/" target="_blank">Start Playing Now!</a></strong></p>
+<p align="center"><strong><a href="https://trash-queens-dev.vercel.app/" target="_blank">Start Playing Now!</a></strong></p>
 <p align="center"><img src="/public/assets/others/hero-image.svg" alt="trees" width="600" height="600"/></p>
 
 ## Project Overview
