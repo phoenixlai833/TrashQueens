@@ -2,7 +2,7 @@
 import Card from '../components/home/Card.vue';
 import Button from '../components/shared/Button.vue'
 import Scroll from '../components/shared/Scroll.vue';
-import HeroImage from '../components/home/heroImage.vue';
+import HeroImage from '../components/home/HeroImage.vue';
 import GameTitle from '../components/home/GameTitle.vue';
 </script>
 
