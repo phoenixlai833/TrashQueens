@@ -9,7 +9,7 @@
 We started this school project as a way for us to familiarize and improve our skills in using new technologies:
 
 - [Figma Link :art:](https://www.figma.com/file/DdMZhIVqv59MYfNoGr7Bwx/Trash-Queen-%E2%80%93-FSWD?node-id=0%3A1&t=EuNrSVJUbOSr1EAk-1)
-- Built with **Vue.js** and **railway**
+- Built with **Vue.js** and deployed on **railway**
 
 ## Challenges
 
